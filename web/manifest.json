@@ -1,6 +1,6 @@
 {
-    "name": "ui_13",
-    "short_name": "ui_13",
+    "name": "plant_app_flutter",
+    "short_name": "plant_app_flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
